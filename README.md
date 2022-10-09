@@ -66,22 +66,3 @@ $ java -jar Quiz-System.jar
 
 ---
 
-## Contributing
-
-
-### Step 1
-
-- 🍴 Fork this repo!
-
-- 👯 Clone this repo from your github account to your local machine
-
-### Step 2
-
-- **HACK AWAY!** 🔨🔨🔨
-
-### Step 3
-
-- 🔃 Create a new pull request.
-
-- ## *If you liked this project give a **star** and **fork it**.*
----
